@@ -23,7 +23,7 @@ module.exports = {
     },
     globalObject: 'this',
     path: outputPath,
-    publicPath: 'auto',
+    publicPath: '/',
   },
   devtool: 'source-map',
   externals: {
